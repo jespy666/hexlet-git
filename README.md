@@ -1,2 +1,1 @@
-No code No pain
-experiment with amend
+cowsay 'Hi, from Ubuntu 22.0.3
